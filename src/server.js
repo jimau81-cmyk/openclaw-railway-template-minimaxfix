@@ -560,8 +560,8 @@ function buildOnboardArgs(payload) {
       "kimi-code-api-key": "--kimi-code-api-key",
       "gemini-api-key": "--gemini-api-key",
       "zai-api-key": "--zai-api-key",
-      "minimax-global-api": "--minimax-global-api-key",
-      "minimax-global-api-lightning": "--minimax-global-api-key",
+      "minimax-global-api": "--minimax-api-key",
+      "minimax-global-api-lightning": "--minimax-api-key",
       "synthetic-api-key": "--synthetic-api-key",
       "opencode-zen": "--opencode-zen-api-key",
     };
